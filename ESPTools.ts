@@ -14,7 +14,7 @@ enum Encryption {
     //% block="WPA_WPA2_PSK"
     WPA_WPA2_PSK = 3
 }
-//% weight=5 color=#43C800 icon="f8dd"
+//% weight=5 color=#43C800 icon="\uf1eb"
 namespace ESP8266Tools {
     /**
      * Sends AT Commands to ESP Module
